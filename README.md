@@ -1,2 +1,1 @@
-# aula_bootstrap
-Utilização do bootstrap orientada em aula no bootcamp da Digital Innovation One
+Site construído com os conhecimentos adquiridos nas aulas de bootstrap ministradas no bootcamp da Digital Innovation One.
